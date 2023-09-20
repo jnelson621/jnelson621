@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jnelson621
-- 👀 I’m a physics PhD student at the University of New Mexico. My research is on AMO/Quantum Optics, specifically quantum information in photons and ultracold atoms. I am part
-of the Becerra group.
+- 👀 I’m a physics PhD student at the University of New Mexico. 
 
 
 <!---
